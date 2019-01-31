@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/lidong1665/config-server
+          username: lidong1665@163.com
+          password: 325106ld
+          default-label: master
