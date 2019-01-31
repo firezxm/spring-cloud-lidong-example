@@ -20,6 +20,7 @@
         <module>spring-cloud-eureka-consumer</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>spring-cloud-gateway-service</module>
     </modules>
 
 

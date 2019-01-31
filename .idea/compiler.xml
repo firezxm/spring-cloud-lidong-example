@@ -14,6 +14,7 @@
         <module name="spring-cloud-consul-producer2" />
         <module name="spring-cloud-eureka-consumer" />
         <module name="spring-cloud-eureka-producer" />
+        <module name="spring-cloud-gateway-service" />
         <module name="spring-cloud-lidong-example" />
         <module name="spring-cloud-nacos-config" />
         <module name="spring-cloud-nacos-consumer" />
@@ -32,6 +33,7 @@
       <module name="spring-cloud-consul-producer2" options="-parameters" />
       <module name="spring-cloud-eureka-consumer" options="-parameters" />
       <module name="spring-cloud-eureka-producer" options="-parameters" />
+      <module name="spring-cloud-gateway-service" options="-parameters" />
       <module name="spring-cloud-nacos-config" options="-parameters" />
       <module name="spring-cloud-nacos-consumer" options="-parameters" />
       <module name="spring-cloud-nacos-producer" options="-parameters" />

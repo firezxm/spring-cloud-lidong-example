@@ -9,6 +9,7 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-consul-producer2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-producer" charset="UTF-8" />
