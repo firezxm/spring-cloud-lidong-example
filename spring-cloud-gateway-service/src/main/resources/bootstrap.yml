@@ -15,7 +15,7 @@ spring:
 #          uri: http://www.163.com/
 #          predicates:
 #            - Path=/163/**
-         - id: spring-cloud-nacos-consumer           #网关路由到用户服务user-service
+         - id: spring-cloud-nacos-consumer           #网关路由到用户服务spring-cloud-nacos-consumer
            uri: lb://spring-cloud-nacos-consumer
            predicates:
              - Path=/spring-cloud-nacos-consumer/**
