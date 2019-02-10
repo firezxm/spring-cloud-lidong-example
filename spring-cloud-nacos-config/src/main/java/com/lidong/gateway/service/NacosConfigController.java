@@ -12,10 +12,10 @@ import org.springframework.web.bind.annotation.*;
 @RefreshScope
 public class NacosConfigController {
 
-    @Value("${gateway.name:}")
+    @Value("${config.name:}")
     private String name;
 
-    @Value("${gateway.age:}")
+    @Value("${config.age:}")
     private Integer age;
 
 

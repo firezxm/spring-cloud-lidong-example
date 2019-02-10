@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
@@ -10,10 +11,10 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-eureka-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-gateway-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-gateway-service-dynamic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot01" charset="UTF-8" />
-    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
