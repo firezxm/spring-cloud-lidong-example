@@ -5,13 +5,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-lidong-provider/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-producer2/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-producer/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-consul-consumer2/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-cloud-nacos-producer/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot01/pom.xml" />
       </list>
     </option>
   </component>

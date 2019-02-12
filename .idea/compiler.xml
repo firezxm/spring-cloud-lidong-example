@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin-server" />
         <module name="config-client" />
         <module name="config-server" />
         <module name="eureka-server" />
@@ -15,6 +16,7 @@
         <module name="spring-cloud-eureka-consumer" />
         <module name="spring-cloud-eureka-producer" />
         <module name="spring-cloud-gateway-service" />
+        <module name="spring-cloud-gateway-service-dynamic" />
         <module name="spring-cloud-lidong-example" />
         <module name="spring-cloud-nacos-config" />
         <module name="spring-cloud-nacos-consumer" />
@@ -25,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-server" options="-parameters" />
       <module name="config-client" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
@@ -34,6 +37,7 @@
       <module name="spring-cloud-eureka-consumer" options="-parameters" />
       <module name="spring-cloud-eureka-producer" options="-parameters" />
       <module name="spring-cloud-gateway-service" options="-parameters" />
+      <module name="spring-cloud-gateway-service-dynamic" options="-parameters" />
       <module name="spring-cloud-nacos-config" options="-parameters" />
       <module name="spring-cloud-nacos-consumer" options="-parameters" />
       <module name="spring-cloud-nacos-producer" options="-parameters" />
