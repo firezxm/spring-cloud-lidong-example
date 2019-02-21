@@ -74,7 +74,6 @@ public class MysqlRouteDefinitionRepository implements RouteDefinitionRepository
             try {
                 gatewayDefineService.deleteById(id);
                 return Mono.empty();
-
             } catch (Exception e) {
                 e.printStackTrace();
                 return Mono.defer(() -> Mono.error(new NotFoundException("RouteDefinition delete error: " + routeId)));

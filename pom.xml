@@ -24,6 +24,11 @@
         <module>spring-cloud-gateway-service</module>
         <module>spring-cloud-gateway-service-dynamic</module>
         <module>springboot01</module>
+        <module>springboot02</module>
+        <module>springboot03</module>
+        <module>springboot-es</module>
+        <module>springboot-mail</module>
+        <module>springboot-rabbitmq</module>
     </modules>
 
 

@@ -21,7 +21,12 @@
         <module name="spring-cloud-nacos-config" />
         <module name="spring-cloud-nacos-consumer" />
         <module name="spring-cloud-nacos-producer" />
+        <module name="springboot-es" />
+        <module name="springboot-mail" />
+        <module name="springboot-rabbitmq" />
         <module name="springboot01" />
+        <module name="springboot02" />
+        <module name="springboot03" />
       </profile>
     </annotationProcessing>
   </component>
@@ -41,7 +46,12 @@
       <module name="spring-cloud-nacos-config" options="-parameters" />
       <module name="spring-cloud-nacos-consumer" options="-parameters" />
       <module name="spring-cloud-nacos-producer" options="-parameters" />
+      <module name="springboot-es" options="-parameters" />
+      <module name="springboot-mail" options="-parameters" />
+      <module name="springboot-rabbitmq" options="-parameters" />
       <module name="springboot01" options="-parameters" />
+      <module name="springboot02" options="-parameters" />
+      <module name="springboot03" options="-parameters" />
     </option>
   </component>
 </project>

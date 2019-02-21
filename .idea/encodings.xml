@@ -15,6 +15,12 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-nacos-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-es" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mail/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/springboot-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot03" charset="UTF-8" />
   </component>
 </project>
